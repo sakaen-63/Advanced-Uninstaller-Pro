@@ -203,4 +203,4 @@ This repository serves as the official landing page for Advanced Uninstaller Pro
 **Get the most recent version of Advanced Uninstaller Pro today!**
 
 ---
-**Last updated:** 2026-11-10 09:31:36 UTC
+**Last updated:** 2026-11-10 17:36:43 UTC
